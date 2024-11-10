@@ -1,0 +1,3 @@
+view video
+message
+camera
